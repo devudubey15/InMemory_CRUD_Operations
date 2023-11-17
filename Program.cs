@@ -42,6 +42,11 @@ namespace Exercise_by_maam
 			{
 				Console.WriteLine("calling GetAllEmloyee()" + b);
 			}
+
+			foreach (Employee b in from i in cha.employeeslist where  i.Address == "Auraiya, uttar pradesh" select i)
+			{
+				Console.WriteLine("jalwa hai"+ b);
+			}
 			Console.ReadKey();
 		}
 	}
