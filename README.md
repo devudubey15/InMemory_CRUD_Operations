@@ -68,7 +68,3 @@ The "In Memory CRUD" project is a demonstration of basic CRUD (Create, Read, Upd
 ## Contributions
 
 Contributions are welcome! Feel free to explore, modify, and use this project as a foundation for your own C# CRUD applications. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
